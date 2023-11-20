@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": 147,
+    "temperature": 24.20000076,
+    "humidity": 95,
+    "SensorFailure": "False",
+    "IP": "172.20.10.11"
+  }
+}
